@@ -1,0 +1,7 @@
+
+.score-board {
+  position: fixed;
+  top: 50px;
+  right: 50px;
+  opacity: 0.8;
+}
