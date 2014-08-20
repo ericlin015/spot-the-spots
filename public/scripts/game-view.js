@@ -7,4 +7,6 @@
         // TODO
     };
 
+    window.GameView = GameView;
+
 })();
