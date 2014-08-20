@@ -49,5 +49,14 @@ h1 {
 }
 #game {
   border: 2px solid #776e65;
-  border-radius: ;
+  border-radius: 4px;
+  padding: 0 3px;
+  background-color: #FFF;
+}
+.block {
+  width: 50px;
+  height: 50px;
+  background-color: #776e65;
+  display: inline-block;
+  cursor: pointer;
 }
